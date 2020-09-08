@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+
+body {
+	font-family: Verdana; 
+}
+
+.userList {
+	border-collapse: collapse;
+	font-size: 14px;
+	line-height: 30px;
+	border: 1px solid #010101;
+}
+
+td {
+	padding: 2px;
+}
+
+.odd {
+	background-color: white;
+}
+
+.even {
+	background-color: lavender;
+}
+
+.red {
+	color: red;
+}
